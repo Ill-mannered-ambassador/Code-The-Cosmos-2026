@@ -14,25 +14,25 @@ All he left behind was a notebook full of strange entries, a photograph taped to
 
 The challenges are chained: each level unlocks only after the previous one is solved.
 
-### Level 1 — Look Up
-The first page of Francis's notebook holds a wall of encoded coordinates, and a note: *"this is where it came from — but first reaches you."* Find what he was looking at.
+### Level 1: Look Up
+The first page of Francis's notebook holds a wall of encoded coordinates, and a note: *"this is where it came from, but first reaches you."* Find what he was looking at.
 
-### Level 2 — Star Letters
+### Level 2: Star Letters
 The next page is nothing but a list of stars. In the margin: *"every star remembers the name of its home."*
 
-### Level 3 — Picture of the Day
-Four printed photographs are taped to the desk, their dates torn off. Underneath: *"the worlds I was watching — in the order the sky showed them to me."*
+### Level 3: Picture of the Day
+Four printed photographs are taped to the desk, their dates torn off. Underneath: *"the worlds I was watching, in the order the sky showed them to me."*
 
-### Level 4 — Planet Hunt
+### Level 4: Planet Hunt
 A torn observation slip describes a single world made of starlight and carbon. Find what the astronomers chose to call it.
 
-### Level 5 — Parking Orbit
+### Level 5: Parking Orbit
 A relay that holds its station over one fixed point on the turning Earth locked its last message to a single number. Work it out, and listen in.
 
-### Level 6 — The Last Door
-The relay's core is sealed behind five doors — five numbers, each earned from a problem Francis could never stop scribbling in the margins. Gather all five and the core opens.
+### Level 6: The Last Door
+The relay's core is sealed behind five doors, five numbers, each earned from a problem Francis could never stop scribbling in the margins. Gather all five and the core opens.
 
-### Level 7 — Final Transmission
+### Level 7: Final Transmission
 One number, one old catalogue, and one star. Trace the signal back to its source and finish what Francis started.
 
 ## Event Information
