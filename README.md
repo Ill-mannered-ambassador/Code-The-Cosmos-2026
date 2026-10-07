@@ -1,100 +1,64 @@
 # Code the Cosmos 2026 🔭
 
-Welcome to the official challenge repository for **Code the Cosmos 2026**, an astronomy-themed OSINT Capture the Flag event organized by **ASTC, IIT (ISM) Dhanbad**. This repository contains all challenges from the event, along with their official write-ups.
+Welcome to the official challenge repository for **Code the Cosmos 2026**, an astronomy-themed OSINT Capture the Flag event organized by the **Aeronautics and Space Technology Club, IIT (ISM) Dhanbad**. This repository holds all challenges from the event, along with their official write-ups.
 
-### The Mission: The Night Shift
+> **Note:** challenge files and write-ups are added per level as folders in this repository.
 
-At 04:30 on 9 October, the ASTC rooftop telescope logged a signal that shouldn't exist. The astronomer on duty, Dr. Ira Sen, never came back down from the roof.
+## The Mission: The Night Shift
 
-All she left behind was a notebook full of strange entries, a photograph taped to her desk, and a trail that seems to have been left on purpose. Follow it across the night sky, through archives and deleted records, and find out where the signal really came from.
+At 04:30 on 9 October, the Club's rooftop telescope logged a signal that shouldn't exist. The astronomer on duty, **Dr. Francis Benoni**, never came back down from the roof.
+
+All he left behind was a notebook full of strange entries, a photograph taped to his desk, and a trail that seems to have been laid down on purpose. Follow it across the night sky, through archives and deleted records and sealed transmissions, and find out where the signal really came from.
 
 ## Challenges
 
 The challenges are chained: each level unlocks only after the previous one is solved.
 
-### Level 1: Look Up
-The first page of Ira's notebook holds a single encoded line, and beneath it: *"this is where it came from."* Find what she was looking at.
+### Level 1 — Look Up
+The first page of Francis's notebook holds a wall of encoded coordinates, and a note: *"this is where it came from — but first reaches you."* Find what he was looking at.
 
-- **[Challenge Files](level-1-look-up/files)**
-- **[Write-up](level-1-look-up/readme.md)**
+### Level 2 — Star Letters
+The next page is nothing but a list of stars. In the margin: *"every star remembers the name of its home."*
 
----
+### Level 3 — Picture of the Day
+Four printed photographs are taped to the desk, their dates torn off. Underneath: *"the worlds I was watching — in the order the sky showed them to me."*
 
-### Level 2: Star Letters
-The next page is nothing but a list of stars, and one line of handwriting: *"every star remembers the name of its home."*
+### Level 4 — Planet Hunt
+A torn observation slip describes a single world made of starlight and carbon. Find what the astronomers chose to call it.
 
-- **[Challenge Files](level-2-star-letters/files)**
-- **[Write-up](level-2-star-letters/readme.md)**
+### Level 5 — Parking Orbit
+A relay that holds its station over one fixed point on the turning Earth locked its last message to a single number. Work it out, and listen in.
 
----
+### Level 6 — The Last Door
+The relay's core is sealed behind five doors — five numbers, each earned from a problem Francis could never stop scribbling in the margins. Gather all five and the core opens.
 
-### Level 3: Picture of the Day
-A printed photograph is taped to Ira's desk, its date torn off. Underneath, she wrote: *"the worlds I was watching."* Find when the world first saw it.
-
-- **[Challenge Files](level-3-picture-of-the-day/files)**
-- **[Write-up](level-3-picture-of-the-day/readme.md)**
-
----
-
-### Level 4: Planet Hunt
-*"One of those worlds is my favourite. I use its name for everything."* Find the world Ira couldn't stop watching.
-
-- **[Challenge Files](level-4-planet-hunt/files)**
-- **[Write-up](level-4-planet-hunt/readme.md)**
-
----
-
-### Level 5: Deleted Log
-Ira posted her final observation log online. By morning, it was gone. But the internet rarely forgets.
-
-- **[Write-up](level-5-deleted-log/readme.md)**
-
----
-
-### Level 6: Mission Trail
-Ira's last log points to where it all began: a spacecraft, launched from Indian soil, watching from a place where nothing pulls it either way.
-
-- **[Write-up](level-6-mission-trail/readme.md)**
-
----
-
-### Level 7: Final Transmission
-One number, one old catalogue, and one star. Trace the signal back to its source and finish what Ira started.
-
-- **[Write-up](level-7-final-transmission/readme.md)**
-
----
+### Level 7 — Final Transmission
+One number, one old catalogue, and one star. Trace the signal back to its source and finish what Francis started.
 
 ## Event Information
 
 **Date:** 9th October 2026, 11:00 AM IST
 **Venue:** NAC Auditorium, IIT (ISM) Dhanbad
 **Format:** Jeopardy-style, chained challenges
-**Flag format:** `CTC{...}`
+**Flag format:** `CTC{...}` *(a later level may seal its message under a different mark — you'll know it when you see it.)*
 
-**Event Structure**
+### Recommended Tools
 
-1. **The Notebook:** Decoding coordinates and ciphers hidden in the stars.
-2. **The Desk:** Image and archive investigation.
-3. **The Trail:** Recovering deleted records and tracing real missions.
-4. **The Source:** Following the signal to its origin.
+Most of the event is solvable in a browser, no Linux or installs required:
 
-**Recommended Tools**
-
-No Linux or installs required. Everything can be solved in a browser:
-
-- [CyberChef](https://gchq.github.io/CyberChef/) for decoding
-- [Stellarium Web](https://stellarium-web.org/) for the night sky
+- [CyberChef](https://gchq.github.io/CyberChef/) — decoding
+- [Stellarium Web](https://stellarium-web.org/) — the night sky
 - Reverse image search (Google Lens, TinEye)
-- Public astronomy archives and databases
+- Public astronomy archives and databases (NASA APOD, NASA Exoplanet Archive, SIMBAD)
 - The [Wayback Machine](https://web.archive.org/)
+- A little Python for the later levels
 
-**Rules of Engagement (Summary)**
+### Rules of Engagement
 
 - **Teams:** 1–3 participants.
-- **Scoring:** Points awarded based on difficulty.
-- **Fair Play:** No sharing flags or solutions between teams, no brute-forcing flag submissions, and no attacking the event infrastructure.
+- **Scoring:** points scale with difficulty.
+- **Fair play:** no sharing flags or solutions between teams, no brute-forcing flag submissions, and no attacking the event infrastructure.
 
 ## Organizers
 
-Made with ❤️ by **ASTC, IIT (ISM) Dhanbad**.
+Made with ❤️ by the **Aeronautics and Space Technology Club, IIT (ISM) Dhanbad**.
