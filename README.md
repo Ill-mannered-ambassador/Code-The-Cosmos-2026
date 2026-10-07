@@ -50,7 +50,6 @@ Most of the event is solvable in a browser, no Linux or installs required:
 - [Stellarium Web](https://stellarium-web.org/) — the night sky
 - Reverse image search (Google Lens, TinEye)
 - Public astronomy archives and databases (NASA APOD, NASA Exoplanet Archive, SIMBAD)
-- The [Wayback Machine](https://web.archive.org/)
 - A little Python for the later levels
 
 ### Rules of Engagement
